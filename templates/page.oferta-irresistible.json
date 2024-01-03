@@ -1,1 +1,384 @@
-{"sections":{"521ff606-3c73-41b2-9023-3af49bd86fa2":{"type":"rich-text","blocks":{"template--17150759207157__521ff606-3c73-41b2-9023-3af49bd86fa2-heading-1":{"type":"heading","settings":{"heading":"¡Oferta Irresistible!","heading_size":"h1"}}},"block_order":["template--17150759207157__521ff606-3c73-41b2-9023-3af49bd86fa2-heading-1"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"accent-2","full_width":true,"padding_top":40,"padding_bottom":52}},"94160bbd-a2ab-4515-9b92-05a22fda79d2":{"type":"image-banner","blocks":{"template--17150759207157__94160bbd-a2ab-4515-9b92-05a22fda79d2-heading-1":{"type":"heading","settings":{"heading":"¡130,154 clientes ya trabajan con nosotros!","heading_size":"h0"}},"75e7b32c-0b3c-4ef0-b591-3ec62df7d691":{"type":"text","settings":{"text":"Somos por mucho el software de punto de venta más vendido y con más instalaciones en México.","text_style":"subtitle"}}},"block_order":["template--17150759207157__94160bbd-a2ab-4515-9b92-05a22fda79d2-heading-1","75e7b32c-0b3c-4ef0-b591-3ec62df7d691"],"settings":{"image":"shopify:\/\/shop_images\/20190506145520-GettyImages-1091916996-1.jpg","image_overlay_opacity":30,"image_height":"small","desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"inverse","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}},"ada1e37f-3bda-4c29-bbf7-380721066e1d":{"type":"image-with-text","blocks":{"template--17182959370485__ada1e37f-3bda-4c29-bbf7-380721066e1d-heading-1":{"type":"heading","settings":{"heading":"Con MyBusiness POS puedes, manera SENCILLA:","heading_size":"h1"}},"template--17182959370485__ada1e37f-3bda-4c29-bbf7-380721066e1d-text-1":{"type":"text","settings":{"text":"<ul><li>Tener al momento los precios de tus productos.<\/li><li>Cobrar fácilmente.<\/li><li>Tener control del dinero que entra a tu negocio.<\/li><li>Controlar tu inventario.<\/li><li>Atraer clientes ofreciendo servicios electrónicos.<\/li><li>Salir de vacaciones dejando tu negocio controlado.<\/li><li>Y mucho más…<\/li><\/ul>","text_style":"body"}}},"block_order":["template--17182959370485__ada1e37f-3bda-4c29-bbf7-380721066e1d-heading-1","template--17182959370485__ada1e37f-3bda-4c29-bbf7-380721066e1d-text-1"],"settings":{"image":"shopify:\/\/shop_images\/abarroes-home.jpg","height":"small","desktop_image_width":"medium","layout":"image_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","section_color_scheme":"","color_scheme":"","image_behavior":"none","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"ae929fc6-3ba6-47d9-9418-b2001141867e":{"type":"video","settings":{"heading":"","heading_size":"h1","enable_video_looping":false,"video_url":"https:\/\/www.youtube.com\/watch?v=3cTBL4Udwj0&embeds_referring_euri=https%3A%2F%2Fmybusinesspos.com%2F&embeds_referring_origin=https%3A%2F%2Fmybusinesspos.com&source_ve_path=OTY3MTQ&feature=emb_imp_woyt","cover_image":"shopify:\/\/shop_images\/Screenshot_2023-12-27_at_12.59.44_p.m..png","description":"","full_width":false,"color_scheme":"","padding_top":36,"padding_bottom":36}},"f02fe732-c6d7-4f34-96a0-412107db37b9":{"type":"rich-text","blocks":{"a0cc40bf-2624-43cc-9ecc-fd3a597071de":{"type":"caption","settings":{"caption":"MyBusiness POS funciona en:","text_style":"caption-with-letter-spacing","text_size":"large"}},"template--17150759207157__f02fe732-c6d7-4f34-96a0-412107db37b9-heading-1":{"type":"heading","settings":{"heading":"Abarroteras, Farmacias, Papelerías, Refaccionarias, Ferreterías, Dulcerías, Carnicerías, Cremerías y 550 giros más…","heading_size":"h1"}}},"block_order":["a0cc40bf-2624-43cc-9ecc-fd3a597071de","template--17150759207157__f02fe732-c6d7-4f34-96a0-412107db37b9-heading-1"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"","full_width":true,"padding_top":40,"padding_bottom":16}},"e7e5bbc1-df38-4080-8871-f321801fadbe":{"type":"video","settings":{"heading":"","heading_size":"h1","enable_video_looping":false,"video_url":"https:\/\/www.youtube.com\/watch?v=R8JeeXp0tbE","cover_image":"shopify:\/\/shop_images\/Screenshot_2024-01-03_at_11.32.41_a.m..png","description":"","full_width":false,"color_scheme":"","padding_top":36,"padding_bottom":36}},"main":{"type":"main-page","disabled":true,"settings":{"padding_top":28,"padding_bottom":28}},"5e09f920-1f4e-42ae-959e-44b4991c38a0":{"type":"collapsible-content","blocks":{"template--17182959370485__5e09f920-1f4e-42ae-959e-44b4991c38a0-collapsible_row-1":{"type":"collapsible_row","settings":{"heading":"Mi negocio es pequeño ¿me sirve?","icon":"check_mark","row_content":"<p>Si. Te ayudamos a controlar la caja y el inventario de tu negocio para que no tengas fugas.<\/p>","page":""}},"template--17182959370485__5e09f920-1f4e-42ae-959e-44b4991c38a0-collapsible_row-2":{"type":"collapsible_row","settings":{"heading":"¿Me sirve para controlar varias sucursales?","icon":"check_mark","row_content":"<p>Si. También contamos con herramientas de consolidación para controlar integralmente todas tus unidades de negocio.<\/p>","page":""}}},"block_order":["template--17182959370485__5e09f920-1f4e-42ae-959e-44b4991c38a0-collapsible_row-1","template--17182959370485__5e09f920-1f4e-42ae-959e-44b4991c38a0-collapsible_row-2"],"settings":{"caption":"","heading":"Preguntas frecuentes","heading_size":"h1","heading_alignment":"center","layout":"none","color_scheme":"accent-2","container_color_scheme":"","open_first_collapsible_row":false,"image_ratio":"adapt","desktop_layout":"image_second","padding_top":60,"padding_bottom":60}},"0454cfda-8bbb-4425-b38f-817ed105ce67":{"type":"rich-text","blocks":{"template--17182959370485__0454cfda-8bbb-4425-b38f-817ed105ce67-heading-1":{"type":"heading","settings":{"heading":"OFERTA","heading_size":"h1"}},"template--17182959370485__0454cfda-8bbb-4425-b38f-817ed105ce67-text-1":{"type":"text","settings":{"text":""}}},"block_order":["template--17182959370485__0454cfda-8bbb-4425-b38f-817ed105ce67-heading-1","template--17182959370485__0454cfda-8bbb-4425-b38f-817ed105ce67-text-1"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"inverse","full_width":true,"padding_top":40,"padding_bottom":40}},"2d951d24-3a61-4948-a43d-849db5bfb8ba":{"type":"multicolumn","blocks":{"template--17182959370485__2d951d24-3a61-4948-a43d-849db5bfb8ba-column-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/banner-1.png","title":"","text":"","link_label":"","link":""}},"template--17182959370485__2d951d24-3a61-4948-a43d-849db5bfb8ba-column-2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/banner-2_088d632c-bf6d-496e-9e8a-e6e5e3a49d58.png","title":"","text":"","link_label":"","link":""}}},"block_order":["template--17182959370485__2d951d24-3a61-4948-a43d-849db5bfb8ba-column-1","template--17182959370485__2d951d24-3a61-4948-a43d-849db5bfb8ba-column-2"],"settings":{"title":"","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":2,"column_alignment":"left","background_style":"none","button_label":"Comprar ahora por sólo $2,970","button_link":"shopify:\/\/products\/mybusiness-v20","color_scheme":"","columns_mobile":"1","swipe_on_mobile":false,"padding_top":56,"padding_bottom":56}},"f1b2d50b-9f64-44f8-b5ca-b04c8e105450":{"type":"multicolumn","blocks":{"template--17182959370485__f1b2d50b-9f64-44f8-b5ca-b04c8e105450-column-1":{"type":"column","settings":{"title":"“MyBusiness POS me ayuda a controlar inventarios, medir las ventas del día y llevar un registro del dinero. En pocas palabras, nos ayuda a vender mejor.”","text":"<h6>Javier Sánchez Navarrete propietario de Súper 24<\/h6>","link_label":"","link":""}},"template--17182959370485__f1b2d50b-9f64-44f8-b5ca-b04c8e105450-column-2":{"type":"column","settings":{"title":"“Con MyBusiness POS llevo un mejor control y me ayuda a agilizar el proceso de venta gracias a la simpleza en la interfaz del punto de venta.”","text":"<h6>Angie Durán propietaria de Ferremas México<\/h6>","link_label":"","link":""}},"template--17182959370485__f1b2d50b-9f64-44f8-b5ca-b04c8e105450-column-3":{"type":"column","settings":{"title":"“MyBusiness POS es la columna vertebral de mi negocio, con el controlo, programo, superviso y administro todo de forma rápida y sencilla.”","text":"<h6>Aurelio Arratia propietario de Lechería Victoria<\/h6>","link_label":"","link":""}},"e7f8ad38-b49e-4f73-9cc2-375ff3e119f7":{"type":"column","settings":{"title":"“MyBusiness POS me ha ayudado a desarrollar oportunidades de negocio en áreas de comercio al por mayor.”","text":"<h6>Gustavo Mendoza propietario de IntegraBits<\/h6>","link_label":"","link":""}}},"block_order":["template--17182959370485__f1b2d50b-9f64-44f8-b5ca-b04c8e105450-column-1","template--17182959370485__f1b2d50b-9f64-44f8-b5ca-b04c8e105450-column-2","template--17182959370485__f1b2d50b-9f64-44f8-b5ca-b04c8e105450-column-3","e7f8ad38-b49e-4f73-9cc2-375ff3e119f7"],"settings":{"title":"","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":4,"column_alignment":"left","background_style":"primary","button_label":"","button_link":"","color_scheme":"accent-1","columns_mobile":"2","swipe_on_mobile":false,"padding_top":60,"padding_bottom":60}},"eded9d01-ef51-4d59-8c6d-911495ebfe51":{"type":"custom-liquid","settings":{"custom_liquid":"<div style=\"text-align: center;\"><h2>Nuestros Clientes son nuestra carta de presentación<\/h2>\n<img\nstyle=\"width: 100%; max-width: 800px; margin: 0 auto;\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0677\/6524\/0053\/files\/banner.png?v=1703705592\" \/>\n<\/div>","color_scheme":"","padding_top":40,"padding_bottom":52}},"a878057f-dbf2-4443-839c-630591f7d1c3":{"type":"contact-form","settings":{"heading":"Si requieres más información, <a href=\"https:\/\/wa.me\/+527223945363?text=Quiero%20vender%20tiempo%20aire%20en%20mi%20negocio\" target=\"_blank\">contacta a un agente directamente por Whatsapp<\/a> o déjanos tus datos y nos comunicaremos contigo.","heading_size":"h2","color_scheme":"accent-2","padding_top":60,"padding_bottom":60}}},"order":["521ff606-3c73-41b2-9023-3af49bd86fa2","94160bbd-a2ab-4515-9b92-05a22fda79d2","ada1e37f-3bda-4c29-bbf7-380721066e1d","ae929fc6-3ba6-47d9-9418-b2001141867e","f02fe732-c6d7-4f34-96a0-412107db37b9","e7e5bbc1-df38-4080-8871-f321801fadbe","main","5e09f920-1f4e-42ae-959e-44b4991c38a0","0454cfda-8bbb-4425-b38f-817ed105ce67","2d951d24-3a61-4948-a43d-849db5bfb8ba","f1b2d50b-9f64-44f8-b5ca-b04c8e105450","eded9d01-ef51-4d59-8c6d-911495ebfe51","a878057f-dbf2-4443-839c-630591f7d1c3"]}
+{
+  "sections": {
+    "521ff606-3c73-41b2-9023-3af49bd86fa2": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17150759207157__521ff606-3c73-41b2-9023-3af49bd86fa2-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "¡Oferta Irresistible!",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--17150759207157__521ff606-3c73-41b2-9023-3af49bd86fa2-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "94160bbd-a2ab-4515-9b92-05a22fda79d2": {
+      "type": "image-banner",
+      "blocks": {
+        "template--17150759207157__94160bbd-a2ab-4515-9b92-05a22fda79d2-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "¡130,154 clientes ya trabajan con nosotros!",
+            "heading_size": "h0"
+          }
+        },
+        "75e7b32c-0b3c-4ef0-b591-3ec62df7d691": {
+          "type": "text",
+          "settings": {
+            "text": "Somos por mucho el software de punto de venta más vendido y con más instalaciones en México.",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "template--17150759207157__94160bbd-a2ab-4515-9b92-05a22fda79d2-heading-1",
+        "75e7b32c-0b3c-4ef0-b591-3ec62df7d691"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/20190506145520-GettyImages-1091916996-1.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "ada1e37f-3bda-4c29-bbf7-380721066e1d": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17182959370485__ada1e37f-3bda-4c29-bbf7-380721066e1d-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Con MyBusiness POS puedes, de manera SENCILLA:",
+            "heading_size": "h1"
+          }
+        },
+        "template--17182959370485__ada1e37f-3bda-4c29-bbf7-380721066e1d-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Tener al momento los precios de tus productos.<\/li><li>Cobrar fácilmente.<\/li><li>Tener control del dinero que entra a tu negocio.<\/li><li>Controlar tu inventario.<\/li><li>Atraer clientes ofreciendo servicios electrónicos.<\/li><li>Salir de vacaciones dejando tu negocio controlado.<\/li><li>Y mucho más…<\/li><\/ul>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--17182959370485__ada1e37f-3bda-4c29-bbf7-380721066e1d-heading-1",
+        "template--17182959370485__ada1e37f-3bda-4c29-bbf7-380721066e1d-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/abarroes-home.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ae929fc6-3ba6-47d9-9418-b2001141867e": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=3cTBL4Udwj0&embeds_referring_euri=https%3A%2F%2Fmybusinesspos.com%2F&embeds_referring_origin=https%3A%2F%2Fmybusinesspos.com&source_ve_path=OTY3MTQ&feature=emb_imp_woyt",
+        "cover_image": "shopify:\/\/shop_images\/Screenshot_2023-12-27_at_12.59.44_p.m..png",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "f02fe732-c6d7-4f34-96a0-412107db37b9": {
+      "type": "rich-text",
+      "blocks": {
+        "a0cc40bf-2624-43cc-9ecc-fd3a597071de": {
+          "type": "caption",
+          "settings": {
+            "caption": "MyBusiness POS funciona en:",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "template--17150759207157__f02fe732-c6d7-4f34-96a0-412107db37b9-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Abarroteras, Farmacias, Papelerías, Refaccionarias, Ferreterías, Dulcerías, Carnicerías, Cremerías y 550 giros más…",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "a0cc40bf-2624-43cc-9ecc-fd3a597071de",
+        "template--17150759207157__f02fe732-c6d7-4f34-96a0-412107db37b9-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 16
+      }
+    },
+    "e7e5bbc1-df38-4080-8871-f321801fadbe": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=R8JeeXp0tbE",
+        "cover_image": "shopify:\/\/shop_images\/Screenshot_2024-01-03_at_11.32.41_a.m..png",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "5e09f920-1f4e-42ae-959e-44b4991c38a0": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--17182959370485__5e09f920-1f4e-42ae-959e-44b4991c38a0-collapsible_row-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Mi negocio es pequeño ¿me sirve?",
+            "icon": "check_mark",
+            "row_content": "<p>Si. Te ayudamos a controlar la caja y el inventario de tu negocio para que no tengas fugas.<\/p>",
+            "page": ""
+          }
+        },
+        "template--17182959370485__5e09f920-1f4e-42ae-959e-44b4991c38a0-collapsible_row-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Me sirve para controlar varias sucursales?",
+            "icon": "check_mark",
+            "row_content": "<p>Si. También contamos con herramientas de consolidación para controlar integralmente todas tus unidades de negocio.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17182959370485__5e09f920-1f4e-42ae-959e-44b4991c38a0-collapsible_row-1",
+        "template--17182959370485__5e09f920-1f4e-42ae-959e-44b4991c38a0-collapsible_row-2"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Preguntas frecuentes",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "accent-2",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "0454cfda-8bbb-4425-b38f-817ed105ce67": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17182959370485__0454cfda-8bbb-4425-b38f-817ed105ce67-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "OFERTA",
+            "heading_size": "h1"
+          }
+        },
+        "template--17182959370485__0454cfda-8bbb-4425-b38f-817ed105ce67-text-1": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17182959370485__0454cfda-8bbb-4425-b38f-817ed105ce67-heading-1",
+        "template--17182959370485__0454cfda-8bbb-4425-b38f-817ed105ce67-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "2d951d24-3a61-4948-a43d-849db5bfb8ba": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--17182959370485__2d951d24-3a61-4948-a43d-849db5bfb8ba-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/banner-1.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17182959370485__2d951d24-3a61-4948-a43d-849db5bfb8ba-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/banner-2_088d632c-bf6d-496e-9e8a-e6e5e3a49d58.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17182959370485__2d951d24-3a61-4948-a43d-849db5bfb8ba-column-1",
+        "template--17182959370485__2d951d24-3a61-4948-a43d-849db5bfb8ba-column-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "Comprar ahora por sólo $2,970",
+        "button_link": "shopify:\/\/products\/mybusiness-v20",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 56,
+        "padding_bottom": 56
+      }
+    },
+    "f1b2d50b-9f64-44f8-b5ca-b04c8e105450": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--17182959370485__f1b2d50b-9f64-44f8-b5ca-b04c8e105450-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "“MyBusiness POS me ayuda a controlar inventarios, medir las ventas del día y llevar un registro del dinero. En pocas palabras, nos ayuda a vender mejor.”",
+            "text": "<h6>Javier Sánchez Navarrete propietario de Súper 24<\/h6>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17182959370485__f1b2d50b-9f64-44f8-b5ca-b04c8e105450-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "“Con MyBusiness POS llevo un mejor control y me ayuda a agilizar el proceso de venta gracias a la simpleza en la interfaz del punto de venta.”",
+            "text": "<h6>Angie Durán propietaria de Ferremas México<\/h6>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17182959370485__f1b2d50b-9f64-44f8-b5ca-b04c8e105450-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "“MyBusiness POS es la columna vertebral de mi negocio, con el controlo, programo, superviso y administro todo de forma rápida y sencilla.”",
+            "text": "<h6>Aurelio Arratia propietario de Lechería Victoria<\/h6>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "e7f8ad38-b49e-4f73-9cc2-375ff3e119f7": {
+          "type": "column",
+          "settings": {
+            "title": "“MyBusiness POS me ha ayudado a desarrollar oportunidades de negocio en áreas de comercio al por mayor.”",
+            "text": "<h6>Gustavo Mendoza propietario de IntegraBits<\/h6>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17182959370485__f1b2d50b-9f64-44f8-b5ca-b04c8e105450-column-1",
+        "template--17182959370485__f1b2d50b-9f64-44f8-b5ca-b04c8e105450-column-2",
+        "template--17182959370485__f1b2d50b-9f64-44f8-b5ca-b04c8e105450-column-3",
+        "e7f8ad38-b49e-4f73-9cc2-375ff3e119f7"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "eded9d01-ef51-4d59-8c6d-911495ebfe51": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div style=\"text-align: center;\"><h2>Nuestros Clientes son nuestra carta de presentación<\/h2>\n<img\nstyle=\"width: 100%; max-width: 800px; margin: 0 auto;\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0677\/6524\/0053\/files\/banner.png?v=1703705592\" \/>\n<\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "a878057f-dbf2-4443-839c-630591f7d1c3": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Si requieres más información, <a href=\"https:\/\/wa.me\/+527223945363?text=Quiero%20vender%20tiempo%20aire%20en%20mi%20negocio\" target=\"_blank\">contacta a un agente directamente por Whatsapp<\/a> o déjanos tus datos y nos comunicaremos contigo.",
+        "heading_size": "h2",
+        "color_scheme": "accent-2",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "521ff606-3c73-41b2-9023-3af49bd86fa2",
+    "94160bbd-a2ab-4515-9b92-05a22fda79d2",
+    "ada1e37f-3bda-4c29-bbf7-380721066e1d",
+    "ae929fc6-3ba6-47d9-9418-b2001141867e",
+    "f02fe732-c6d7-4f34-96a0-412107db37b9",
+    "e7e5bbc1-df38-4080-8871-f321801fadbe",
+    "main",
+    "5e09f920-1f4e-42ae-959e-44b4991c38a0",
+    "0454cfda-8bbb-4425-b38f-817ed105ce67",
+    "2d951d24-3a61-4948-a43d-849db5bfb8ba",
+    "f1b2d50b-9f64-44f8-b5ca-b04c8e105450",
+    "eded9d01-ef51-4d59-8c6d-911495ebfe51",
+    "a878057f-dbf2-4443-839c-630591f7d1c3"
+  ]
+}
