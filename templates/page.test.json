@@ -1,0 +1,52 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "b6dc4b39-7f11-4fec-ae1a-5ca87a9e6f6d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17215733924085__b6dc4b39-7f11-4fec-ae1a-5ca87a9e6f6d-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Video Tutoriales",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--17215733924085__b6dc4b39-7f11-4fec-ae1a-5ca87a9e6f6d-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "e07ddb2e-0bec-4124-8a59-695bdda2c020": {
+      "type": "custom-liquid",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"video-section\">\n  <h1>Primeros pasos<\/h1>\n  <div class=\"d-flex\">\n    <div class=\"flex-col\">\n      <iframe width=\"400\" height=\"200\" src=\"https:\/\/www.youtube.com\/embed\/j500GzCS8j0\" frameBorder=\"0\"\n        allow=\"autoplay; encrypted-media\" allowFullScreen><\/iframe>\n      <p className=\"text-center font-sm\">¿Qué es MyBusiness POS?<\/p>\n    <\/div>\n    <div class=\"flex-col\">\n      <iframe width=\"400\" height=\"200\" src=\"https:\/\/www.youtube.com\/embed\/rXGJ4TdAb0c\" frameBorder=\"0\"\n        allow=\"autoplay; encrypted-media\" allowFullScreen><\/iframe>\n      <p className=\"text-center font-sm\">\n        Como instalar MyBusiness POS V.2012 en Windows 8 u 8.1\n      <\/p>\n    <\/div>\n    <div class=\"flex-col\">\n      <iframe width=\"400\" height=\"200\" src=\"https:\/\/www.youtube.com\/embed\/37DBmS9Z5UA\" frameBorder=\"0\"\n        allow=\"autoplay; encrypted-media\" allowFullScreen><\/iframe>\n      <p className=\"text-center font-sm\">\n        Como registrar MyBusiness POS V.2012.\n      <\/p>\n    <\/div>\n    <div class=\"flex-col\">\n      <iframe width=\"400\" height=\"200\" src=\"https:\/\/www.youtube.com\/embed\/LxV52wumQcE\" frameBorder=\"0\"\n        allow=\"autoplay; encrypted-media\" allowFullScreen><\/iframe>\n      <p className=\"text-center font-sm\">\n        Cómo instalar SQL Server Managment Studio\n      <\/p>\n    <\/div>\n  <\/div>\n<\/div>\n\n<div class=\"video-section\">\n  <h1>Acceso al sistema<\/h1>\n  <div class=\"d-flex\">\n    <div class=\"flex-col\">\n      <iframe width=\"400\" height=\"250\" src=\"https:\/\/www.youtube.com\/embed\/zNdKpBYfTpU\" frameBorder=\"0\"\n        allow=\"autoplay; encrypted-media\" allowFullScreen><\/iframe>\n      <p className=\"font-sm\">\n        Eliminar la contraseña del usuario SUP por olvido\n      <\/p>\n    <\/div>\n    <div class=\"flex-col\">\n      <iframe width=\"400\" height=\"250\" src=\"https:\/\/www.youtube.com\/embed\/QG_J_nBnxbg\" frameBorder=\"0\"\n        allow=\"autoplay; encrypted-media\" allowFullScreen><\/iframe>\n      <p className=\"text-center font-sm\">\n        Deshabilitar el botón &quot;Usuario por defecto&quot;\n      <\/p>\n    <\/div>\n  <\/div>\n<\/div>\n\n<div class=\"video-section\">\n  <h1>Punto de venta<\/h1>\n  <div class=\"d-flex\">\n    <div class=\"flex-col\">\n      <iframe width=\"400\" height=\"250\" src=\"https:\/\/www.youtube.com\/embed\/UPYM_iRZbmg\" frameBorder=\"0\"\n        allow=\"autoplay; encrypted-media\" allowFullScreen><\/iframe>\n      <p className=\"text-center font-sm\">\n        Cómo colocar y cambiar el logo del ticket\n      <\/p>\n    <\/div>\n    <div class=\"flex-col\">\n      <iframe width=\"400\" height=\"250\" src=\"https:\/\/www.youtube.com\/embed\/Pc0EcJpKXFU\" frameBorder=\"0\"\n        allow=\"autoplay; encrypted-media\" allowFullScreen><\/iframe>\n      <p className=\"text-center font-sm\">\n        Mostrar gramos exactos en la impresión del Ticket\n      <\/p>\n    <\/div>\n\n\n    <div class=\"flex-col\">\n      <iframe width=\"400\" height=\"250\" src=\"https:\/\/www.youtube.com\/embed\/ZW7MkyRe9Bw\" frameBorder=\"0\"\n        allow=\"autoplay; encrypted-media\" allowFullScreen><\/iframe>\n      <p className=\"text-center font-sm\">\n        Cómo cambiar el tamaño de la letra del Ticket\n      <\/p>\n    <\/div>\n  <\/div>\n<\/div>\n\n<div class=\"video-section\">\n  <h1>Inventarios<\/h1>\n  <div class=\"d-flex\">\n    <div class=\"flex-col\">\n      <iframe width=\"400\" height=\"250\" src=\"https:\/\/www.youtube.com\/embed\/sXooDBfhuQk\" frameBorder=\"0\"\n        allow=\"autoplay; encrypted-media\" allowFullScreen><\/iframe>\n      <p className=\"text-center font-sm\">\n        Colocar a un artículo 2 impuestos IEPS e IVA\n      <\/p>\n    <\/div>\n    <div class=\"flex-col\">\n      <iframe width=\"400\" height=\"250\" src=\"https:\/\/www.youtube.com\/embed\/K2zIiuDDw8o\" frameBorder=\"0\"\n        allow=\"autoplay; encrypted-media\" allowFullScreen><\/iframe>\n      <p className=\"text-center font-sm\">\n        Borrar las existencias y dejar todo en cero\n      <\/p>\n    <\/div>\n  <\/div>\n<\/div>\n\n<div class=\"video-section\">\n  <h1>Business Manager<\/h1>\n  <div class=\"d-flex\">\n    <div class=\"flex-col\">\n      <iframe\n      width=\"400\"\n      height=\"250\"\n      src=\"https:\/\/www.youtube.com\/embed\/2Fzg8-Swn64\"\n      frameBorder=\"0\"\n      allow=\"autoplay; encrypted-media\"\n      allowFullScreen\n    ><\/iframe>\n    <p className=\"text-center font-sm\">\n      Cómo ubicar el Business Manager en la version 2012.\n    <\/p>\n    <\/div>\n  <\/div>\n<\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b6dc4b39-7f11-4fec-ae1a-5ca87a9e6f6d",
+    "e07ddb2e-0bec-4124-8a59-695bdda2c020"
+  ]
+}
