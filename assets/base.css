@@ -3557,3 +3557,17 @@ details-disclosure > details {
   text-decoration: none;
   color: #000;
 }
+
+.clickable {
+  cursor: pointer;
+  position: relative;
+  background: red;
+}
+.clickable img {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}

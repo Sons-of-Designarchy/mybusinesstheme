@@ -27,6 +27,28 @@
   }
 {%- endstyle -%}
 
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+
+<script>
+  $(document).ready(function () {
+    // Function to toggle placeholder and video
+    function toggleVideo(placeholder, video) {
+      $(placeholder).hide();
+      $(video).show();
+    }
+
+    // Click event for all videos with the 'clickable' class
+    $(".video-section .clickable").click(function () {
+      // Get the placeholder and video within the clicked container
+      var placeholder = $(this).find("img");
+      var video = $(this).find("iframe");
+
+      // Toggle the visibility
+      toggleVideo(placeholder, video);
+    });
+  });
+</script>
+
 <footer class="footer color-{{ section.settings.color_scheme }} gradient section-{{ section.id }}-padding">
   {%- liquid
     assign has_social_icons = true
