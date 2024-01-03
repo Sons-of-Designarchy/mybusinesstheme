@@ -3539,3 +3539,21 @@ details-disclosure > details {
 .icon-cart-empty {
   display: none;
 }
+
+.floating-button {
+  display: block;
+  position: fixed;
+  bottom: 2rem;
+  border-radius: 3.5rem;
+  padding: 1rem;
+  box-shadow: 0 10px 30px rgba(0,0,0,.25);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  right: 2rem;
+  background: #a7d2dc;
+  z-index: 1000;
+  transition: all .15s ease-in-out;
+  text-decoration: none;
+  color: #000;
+}
