@@ -3535,3 +3535,7 @@ details-disclosure > details {
 .video-section iframe {
   max-width: 100%;
 }
+
+.icon-cart-empty {
+  display: none;
+}
