@@ -3514,7 +3514,9 @@ details-disclosure > details {
 
 .video-section h1 {
   text-align: center;
+  font-size: 24px;
 }
+
 .video-section {
   margin: 0px auto;
   max-width: 1200px;
@@ -3522,8 +3524,10 @@ details-disclosure > details {
 
 .d-flex {
   display: flex;
+  flex-wrap: wrap;
 }
 
 .flex-col {
   padding: 1rem;
+  max-width: 33%;
 }
