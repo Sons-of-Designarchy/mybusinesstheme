@@ -57,13 +57,6 @@
             "text": "Compatible con Windows 8, Windows 8.1, Windows 10",
             "text_style": "body"
           }
-        },
-        "9eeea3de-f9b2-4493-a261-d44ead98718e": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.metafields.custom.leyenda.value }}",
-            "text_style": "body"
-          }
         }
       },
       "block_order": [
@@ -75,8 +68,7 @@
         "description",
         "share",
         "ffabe969-f940-4df2-90c2-d2567b9f2e42",
-        "12320291-e890-4461-98e9-48d8981aa71b",
-        "9eeea3de-f9b2-4493-a261-d44ead98718e"
+        "12320291-e890-4461-98e9-48d8981aa71b"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -92,6 +84,28 @@
         "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "59d62703-0caf-4a38-99c5-d3ff9d709688": {
+      "type": "rich-text",
+      "blocks": {
+        "e5cc850f-1a9d-46c7-b3ac-ef495e38e690": {
+          "type": "text",
+          "settings": {
+            "text": "<p>{{ product.metafields.custom.leyenda.value }}<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "e5cc850f-1a9d-46c7-b3ac-ef495e38e690"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "cb68f05d-db5e-4183-8513-823b4204ca65": {
@@ -186,6 +200,7 @@
   },
   "order": [
     "main",
+    "59d62703-0caf-4a38-99c5-d3ff9d709688",
     "cb68f05d-db5e-4183-8513-823b4204ca65",
     "related-products",
     "6693b658-ec93-4901-a32b-e7a29f70c8df"
