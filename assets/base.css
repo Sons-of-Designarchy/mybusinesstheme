@@ -3511,3 +3511,19 @@ details-disclosure > details {
     --border-offset: 0px; /* Prevent the border from growing on buttons when this effect is on. */
   }
 }
+
+.video-section h1 {
+  text-align: center;
+}
+.video-section {
+  margin: 0px auto;
+  max-width: 1200px;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.flex-col {
+  padding: 1rem;
+}
