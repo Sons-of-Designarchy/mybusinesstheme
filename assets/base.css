@@ -3561,7 +3561,7 @@ details-disclosure > details {
 .clickable {
   cursor: pointer;
   position: relative;
-  margin-bottom: 3rem;
+  margin-bottom: 5rem;
 }
 
 .clickable p {
