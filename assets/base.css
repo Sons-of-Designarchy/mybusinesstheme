@@ -3529,7 +3529,12 @@ details-disclosure > details {
 
 .flex-col {
   padding: 1rem;
-  max-width: 33%;
+}
+
+@media (min-width: 769px) {
+  .flex-col {
+    max-width: 33%;
+  }
 }
 
 .video-section iframe {
