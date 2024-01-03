@@ -3531,3 +3531,7 @@ details-disclosure > details {
   padding: 1rem;
   max-width: 33%;
 }
+
+.video-section iframe {
+  max-width: 100%;
+}
