@@ -35,6 +35,15 @@
     function toggleVideo(placeholder, video) {
       $(placeholder).hide();
       $(video).show();
+
+      // Play the YouTube video
+      var player = new YT.Player(video.get(0), {
+        events: {
+          'onReady': function (event) {
+            event.target.playVideo();
+          }
+        }
+      });
     }
 
     // Click event for all videos with the 'clickable' class
