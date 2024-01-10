@@ -91,7 +91,7 @@
         "4e0181de-9527-4433-9e61-473f15c568ff": {
           "type": "text",
           "settings": {
-            "text": "<p>¡Pruébalo por 30 días!<\/p><p><strong>Requisitos para su instalación:<\/strong>Windows 7 Service Pack 1 o superior.<\/p><p><strong>Nota importante: <\/strong>Se<br\/> debe ejecutar el sistema como administrador, dando clic derecho sobre <br\/>el ícono de MyBusiness POS y seleccionando Ejecutar como administrador.<\/p><p><strong>Otras descargas:<\/strong><a href=\"http:\/\/mybusinesspos.com\/Downloads\/TripticoMyBusinessPOS2017.pdf\">Tríptico informativo (.pdf)<\/a> | <a href=\"https:\/\/downloads.mybusinesspos.com\/MyBusinessPOS-2017-Manual-del-Usuario.pdf\" title=\"https:\/\/downloads.mybusinesspos.com\/MyBusinessPOS-2017-Manual-del-Usuario.pdf\">Manual de usuario (.pdf)<\/a><\/p>",
+            "text": "<p>¡Pruébalo por 30 días!<\/p><p><strong>Requisitos para su instalación:<\/strong>Windows 7 Service Pack 1 o superior.<\/p><p><strong>Nota importante: <\/strong>Se<br\/> debe ejecutar el sistema como administrador, dando clic derecho sobre <br\/>el ícono de MyBusiness POS y seleccionando Ejecutar como administrador.<\/p><p><strong>Otras descargas:<\/strong><a href=\"https:\/\/downloads.mybusinesspos.com\/TripticoMyBusinessPOS2017.pdf\" title=\"https:\/\/downloads.mybusinesspos.com\/TripticoMyBusinessPOS2017.pdf\">Tríptico informativo (.pdf)<\/a> | <a href=\"https:\/\/downloads.mybusinesspos.com\/MyBusinessPOS-2017-Manual-del-Usuario.pdf\" title=\"https:\/\/downloads.mybusinesspos.com\/MyBusinessPOS-2017-Manual-del-Usuario.pdf\">Manual de usuario (.pdf)<\/a><\/p>",
             "text_style": "body"
           }
         },
@@ -138,7 +138,7 @@
         "924342d3-ef1b-47aa-8584-4561401d3fa3": {
           "type": "text",
           "settings": {
-            "text": "<p>Esta versión está descontinuada y ya no tiene Soporte. Se descarga <br\/>únicamente para quienes ya cuentan con esta versión en otros equipos y <br\/>requieren compatibilidad. Lo recomendable es actualizarse a la última <br\/>versión del software.<\/p><p><strong>Requisitos para su instalación: <\/strong>Windows XP Service Pack 3 o superior.<\/p><p><strong>Nota importante: <\/strong>De<br\/> Windows 7 en adelante se debe ejecutar el sistema como Administrador, <br\/>dando clic derecho sobre el ícono de MyBusiness POS y seleccionando <br\/>Ejecutar como administrador.<\/p><p><strong>Otras descargas: <\/strong><a href=\"http:\/\/mybusinesspos.com\/Downloads\/TripticoMyBusinessPOS2012.pdf\">Tríptico informativo (.pdf)<\/a> | <a href=\"http:\/\/mybusinesspos.com\/Downloads\/ManualMyBusinessPOS2012.pdf\">Manual de usuario (.pdf)<\/a><\/p>",
+            "text": "<p>Esta versión está descontinuada y ya no tiene Soporte. Se descarga <br\/>únicamente para quienes ya cuentan con esta versión en otros equipos y <br\/>requieren compatibilidad. Lo recomendable es actualizarse a la última <br\/>versión del software.<\/p><p><strong>Requisitos para su instalación: <\/strong>Windows XP Service Pack 3 o superior.<\/p><p><strong>Nota importante: <\/strong>De<br\/> Windows 7 en adelante se debe ejecutar el sistema como Administrador, <br\/>dando clic derecho sobre el ícono de MyBusiness POS y seleccionando <br\/>Ejecutar como administrador.<\/p><p><strong>Otras descargas: <\/strong><a href=\"https:\/\/downloads.mybusinesspos.com\/TripticoMyBusinessPOS2012.pdf\" title=\"https:\/\/downloads.mybusinesspos.com\/TripticoMyBusinessPOS2012.pdf\">Tríptico informativo (.pdf)<\/a> | <a href=\"https:\/\/downloads.mybusinesspos.com\/ManualMyBusinessPOS2012.pdf\" title=\"https:\/\/downloads.mybusinesspos.com\/ManualMyBusinessPOS2012.pdf\">Manual de usuario (.pdf)<\/a><\/p>",
             "text_style": "body"
           }
         },
@@ -146,7 +146,7 @@
           "type": "button",
           "settings": {
             "button_label": "Descarga ahora",
-            "button_link": "https:\/\/mybusinesspos.com\/Downloads\/SetupMyBusinessPOS2012.zip",
+            "button_link": "https:\/\/downloads.mybusinesspos.com\/SetupMyBusinessPOS2012.zip",
             "button_style_secondary": false
           }
         }
