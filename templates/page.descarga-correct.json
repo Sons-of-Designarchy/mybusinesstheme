@@ -193,7 +193,7 @@
           "type": "button",
           "settings": {
             "button_label": "Descarga ahora",
-            "button_link": "https:\/\/mybusinesspos.com\/Downloads\/SetupMyBusinessPOS2011.zip",
+            "button_link": "https:\/\/downloads.mybusinesspos.com\/SetupMyBusinessPOS2011.zip",
             "button_style_secondary": false
           }
         }
