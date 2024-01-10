@@ -54,7 +54,7 @@
         "12320291-e890-4461-98e9-48d8981aa71b": {
           "type": "text",
           "settings": {
-            "text": "<strong>Requisitos para su instalación: <\/strong>",
+            "text": "<strong>Requisitos para su instalación: <\/strong>{{ product.metafields.custom.compatibilidad.value }}",
             "text_style": "body"
           }
         }
