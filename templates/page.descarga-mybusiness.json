@@ -1,1 +1,67 @@
-{"sections":{"main":{"type":"main-page","settings":{"padding_top":28,"padding_bottom":28}},"2ff25f5b-82fe-40ee-b07b-306e64c8412d":{"type":"custom-liquid","settings":{"custom_liquid":"","color_scheme":"","padding_top":40,"padding_bottom":52}}},"order":["main","2ff25f5b-82fe-40ee-b07b-306e64c8412d"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "2ff25f5b-82fe-40ee-b07b-306e64c8412d": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_gMUA8n": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_P7NdtD": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ligas de descarga para facturar.",
+            "heading_size": "h1"
+          }
+        },
+        "text_w9dt4w": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"https:\/\/downloads.mybusinesspos.com\/SetupMyCFDI.zip\" title=\"https:\/\/downloads.mybusinesspos.com\/SetupMyCFDI.zip\">SetupMyCFDI.zip<\/a><br\/><a href=\"https:\/\/downloads.mybusinesspos.com\/SetupMyCFDIv17.zip\" title=\"https:\/\/downloads.mybusinesspos.com\/SetupMyCFDIv17.zip\">SetupMyCFDIv17.zip<\/a><br\/><a href=\"https:\/\/downloads.mybusinesspos.com\/SetupMyCFDIv20.zip\" title=\"https:\/\/downloads.mybusinesspos.com\/SetupMyCFDIv20.zip\">SetupMyCFDIv20.zip<\/a><br\/><a href=\"https:\/\/downloads.mybusinesspos.com\/CFDI4.0_Act.zip\" title=\"https:\/\/downloads.mybusinesspos.com\/CFDI4.0_Act.zip\">CFDI4.0_Act.zip<\/a><br\/><a href=\"https:\/\/downloads.mybusinesspos.com\/CFDI_4.0_Nomina_1.2.zip\" title=\"https:\/\/downloads.mybusinesspos.com\/CFDI_4.0_Nomina_1.2.zip\">CFDI_4.0_Nomina_1.2.zip<\/a><br\/><a href=\"https:\/\/downloads.mybusinesspos.com\/CFDI_4.0_Pagos_2.0.zip\" title=\"https:\/\/downloads.mybusinesspos.com\/CFDI_4.0_Pagos_2.0.zip\">CFDI_4.0_Pagos_2.0.zip<\/a><br\/><a href=\"https:\/\/downloads.mybusinesspos.com\/CFDI_4.0_Carta_Porte_V2.0.zip\" title=\"https:\/\/downloads.mybusinesspos.com\/CFDI_4.0_Carta_Porte_V2.0.zip\">CFDI_4.0_Carta_Porte_V2.0.zip<\/a><br\/><a href=\"https:\/\/downloads.mybusinesspos.com\/CFDI_4.0_IEDU_1.0.zip\" title=\"https:\/\/downloads.mybusinesspos.com\/CFDI_4.0_IEDU_1.0.zip\">CFDI_4.0_IEDU_1.0.zip<\/a><br\/><a href=\"https:\/\/downloads.mybusinesspos.com\/MyBusiness_11-17_Inst_Nueva.zip\" title=\"https:\/\/downloads.mybusinesspos.com\/MyBusiness_11-17_Inst_Nueva.zip\">MyBusiness_11-17_Inst_Nueva.zip<\/a><\/p>"
+          }
+        },
+        "button_mkEwL8": {
+          "type": "button",
+          "settings": {
+            "button_label": "Comprar timbres fiscales",
+            "button_link": "shopify:\/\/collections\/timbres",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_P7NdtD",
+        "text_w9dt4w",
+        "button_mkEwL8"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "2ff25f5b-82fe-40ee-b07b-306e64c8412d",
+    "rich_text_gMUA8n"
+  ]
+}
