@@ -99,13 +99,28 @@
           "settings": {
             "text": "<ol><li>Si usas MyBusiness POS puedes instalar los módulos para generar las facturas directamente desde tu software.<\/li><li>Si no usas MyBusiness POS escríbenos directamente en el Chat aquí abajo. <\/li><\/ol>"
           }
+        },
+        "heading_4kFqnp": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ligas de descarga de facturación",
+            "heading_size": "h1"
+          }
+        },
+        "text_yU9q8m": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"https:\/\/downloads.mybusinesspos.com\/SetupMyCFDI.zip\" title=\"https:\/\/downloads.mybusinesspos.com\/SetupMyCFDI.zip\">SetupMyCFDI.zip<\/a><br\/><a href=\"https:\/\/downloads.mybusinesspos.com\/SetupMyCFDIv17.zip\" title=\"https:\/\/downloads.mybusinesspos.com\/SetupMyCFDIv17.zip\">SetupMyCFDIv17.zip<\/a><br\/><a href=\"https:\/\/downloads.mybusinesspos.com\/SetupMyCFDIv20.zip\" title=\"https:\/\/downloads.mybusinesspos.com\/SetupMyCFDIv20.zip\">SetupMyCFDIv20.zip<\/a><br\/><a href=\"https:\/\/downloads.mybusinesspos.com\/CFDI4.0_Act.zip\" title=\"https:\/\/downloads.mybusinesspos.com\/CFDI4.0_Act.zip\">CFDI4.0_Act.zip<\/a><br\/><a href=\"https:\/\/downloads.mybusinesspos.com\/CFDI_4.0_Nomina_1.2.zip\" title=\"https:\/\/downloads.mybusinesspos.com\/CFDI_4.0_Nomina_1.2.zip\">CFDI_4.0_Nomina_1.2.zip<\/a><br\/><a href=\"https:\/\/downloads.mybusinesspos.com\/CFDI_4.0_Pagos_2.0.zip\" title=\"https:\/\/downloads.mybusinesspos.com\/CFDI_4.0_Pagos_2.0.zip\">CFDI_4.0_Pagos_2.0.zip<\/a><br\/><a href=\"https:\/\/downloads.mybusinesspos.com\/CFDI_4.0_Carta_Porte_V2.0.zip\" title=\"https:\/\/downloads.mybusinesspos.com\/CFDI_4.0_Carta_Porte_V2.0.zip\">CFDI_4.0_Carta_Porte_V2.0.zip<\/a><br\/><a href=\"https:\/\/downloads.mybusinesspos.com\/CFDI_4.0_IEDU_1.0.zip\" title=\"https:\/\/downloads.mybusinesspos.com\/CFDI_4.0_IEDU_1.0.zip\">CFDI_4.0_IEDU_1.0.zip<\/a><br\/><a href=\"https:\/\/downloads.mybusinesspos.com\/MyBusiness_11-17_Inst_Nueva.zip\" title=\"https:\/\/downloads.mybusinesspos.com\/MyBusiness_11-17_Inst_Nueva.zip\">MyBusiness_11-17_Inst_Nueva.zip<\/a><\/p>"
+          }
         }
       },
       "block_order": [
         "0b641751-ef96-424e-b151-0de57f5ae7bf",
         "1d83ee90-522a-435a-88bf-68f8c87adea1",
         "e4d24ad5-c229-495a-a1e4-7aedd3edb0cb",
-        "88cde75d-7e02-43ec-b9d8-fb03e3475a83"
+        "88cde75d-7e02-43ec-b9d8-fb03e3475a83",
+        "heading_4kFqnp",
+        "text_yU9q8m"
       ],
       "settings": {
         "desktop_content_position": "center",
