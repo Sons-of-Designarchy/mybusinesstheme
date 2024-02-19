@@ -262,6 +262,41 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "rich_text_yFdnhg": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_CVV3nA": {
+          "type": "heading",
+          "settings": {
+            "heading": "¿Aún tienes dudas?",
+            "heading_size": "h1"
+          }
+        },
+        "button_8LV4a9": {
+          "type": "button",
+          "settings": {
+            "button_label": "Escríbenos en WhatsApp",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_CVV3nA",
+        "button_8LV4a9"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -271,6 +306,7 @@
     "f02fe732-c6d7-4f34-96a0-412107db37b9",
     "b03bfe40-f209-4f5b-8f79-559862b547e9",
     "449ecb77-803a-4217-a051-176188205147",
-    "c4f05c58-9c22-46eb-9eb6-841ff30049bf"
+    "c4f05c58-9c22-46eb-9eb6-841ff30049bf",
+    "rich_text_yFdnhg"
   ]
 }
