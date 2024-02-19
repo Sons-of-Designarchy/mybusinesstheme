@@ -236,7 +236,7 @@
         "template--17150759207157__c4f05c58-9c22-46eb-9eb6-841ff30049bf-buttons-1": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Pruebalo gratis",
+            "button_label_1": "Descarga gratis",
             "button_link_1": "shopify:\/\/pages\/descargas-mybusiness-pos",
             "button_style_secondary_1": true,
             "button_label_2": "Comprar ahora",
