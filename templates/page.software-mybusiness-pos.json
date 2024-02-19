@@ -1,1 +1,276 @@
-{"sections":{"521ff606-3c73-41b2-9023-3af49bd86fa2":{"type":"rich-text","blocks":{"template--17150759207157__521ff606-3c73-41b2-9023-3af49bd86fa2-heading-1":{"type":"heading","settings":{"heading":"Software MyBusiness POS","heading_size":"h1"}}},"block_order":["template--17150759207157__521ff606-3c73-41b2-9023-3af49bd86fa2-heading-1"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"accent-2","full_width":true,"padding_top":40,"padding_bottom":52}},"94160bbd-a2ab-4515-9b92-05a22fda79d2":{"type":"image-banner","blocks":{"template--17150759207157__94160bbd-a2ab-4515-9b92-05a22fda79d2-heading-1":{"type":"heading","settings":{"heading":"MyBusiness POS funciona como punto de venta de abarrotes, farmacias, ferreterías, carnicerías, papelerías, refaccionarias, tlapalerías y muchos comercios más…","heading_size":"h1"}},"template--17150759207157__94160bbd-a2ab-4515-9b92-05a22fda79d2-buttons-1":{"type":"buttons","settings":{"button_label_1":"Pruebalo gratis","button_link_1":"shopify:\/\/pages\/descargas-mybusiness-pos","button_style_secondary_1":true,"button_label_2":"Comprar ahora","button_link_2":"shopify:\/\/products\/mybusiness-v20","button_style_secondary_2":false}}},"block_order":["template--17150759207157__94160bbd-a2ab-4515-9b92-05a22fda79d2-heading-1","template--17150759207157__94160bbd-a2ab-4515-9b92-05a22fda79d2-buttons-1"],"settings":{"image":"shopify:\/\/shop_images\/hero-image.jpg","image_overlay_opacity":50,"image_height":"adapt","desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"inverse","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}},"main":{"type":"main-page","disabled":true,"settings":{"padding_top":28,"padding_bottom":28}},"f02fe732-c6d7-4f34-96a0-412107db37b9":{"type":"rich-text","blocks":{"template--17150759207157__f02fe732-c6d7-4f34-96a0-412107db37b9-heading-1":{"type":"heading","settings":{"heading":"Llevar un control total de tu negocio ahora es más sencillo.","heading_size":"h1"}},"template--17150759207157__f02fe732-c6d7-4f34-96a0-412107db37b9-text-1":{"type":"text","settings":{"text":"<p>En el sistema encontrarás módulos como:<\/p>"}},"template--17150759207157__f02fe732-c6d7-4f34-96a0-412107db37b9-button-1":{"type":"button","settings":{"button_label":"","button_link":"","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--17150759207157__f02fe732-c6d7-4f34-96a0-412107db37b9-heading-1","template--17150759207157__f02fe732-c6d7-4f34-96a0-412107db37b9-text-1","template--17150759207157__f02fe732-c6d7-4f34-96a0-412107db37b9-button-1"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"","full_width":true,"padding_top":40,"padding_bottom":16}},"b03bfe40-f209-4f5b-8f79-559862b547e9":{"type":"multicolumn","blocks":{"template--17150759207157__b03bfe40-f209-4f5b-8f79-559862b547e9-column-1":{"type":"column","settings":{"title":"","text":"<p>Ventas<\/p><p>Compras<\/p><p>Control de inventario<\/p>","link_label":"","link":""}},"template--17150759207157__b03bfe40-f209-4f5b-8f79-559862b547e9-column-2":{"type":"column","settings":{"title":"","text":"<p>Clientes<\/p><p>Cuentas por cobrar<\/p><p>Cuentas por pagar<\/p>","link_label":"","link":""}},"template--17150759207157__b03bfe40-f209-4f5b-8f79-559862b547e9-column-3":{"type":"column","settings":{"title":"","text":"<p>Facturación electrónica<\/p><p>Pago de servicios<\/p><p>Proveedores<\/p>","link_label":"","link":""}},"237a0963-74f3-4e84-a034-c28a3b7ec350":{"type":"column","settings":{"title":"","text":"<p>Programación<\/p><p>Venta de recargas electrónicas<\/p><p>y más...<\/p><h6>(* se adapta a tus requerimentos o giro de negocio)<\/h6>","link_label":"","link":""}}},"block_order":["template--17150759207157__b03bfe40-f209-4f5b-8f79-559862b547e9-column-1","template--17150759207157__b03bfe40-f209-4f5b-8f79-559862b547e9-column-2","template--17150759207157__b03bfe40-f209-4f5b-8f79-559862b547e9-column-3","237a0963-74f3-4e84-a034-c28a3b7ec350"],"settings":{"title":"","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":4,"column_alignment":"center","background_style":"primary","button_label":"","button_link":"","color_scheme":"background-2","columns_mobile":"1","swipe_on_mobile":false,"padding_top":0,"padding_bottom":36}},"449ecb77-803a-4217-a051-176188205147":{"type":"image-with-text","blocks":{"template--17150759207157__449ecb77-803a-4217-a051-176188205147-heading-1":{"type":"heading","settings":{"heading":"Características","heading_size":"h1"}},"template--17150759207157__449ecb77-803a-4217-a051-176188205147-text-1":{"type":"text","settings":{"text":"<ul><li>Fácil de usar<\/li><li>Licencia por máquina.<\/li><li>Sistema operativo Windows<\/li><li>Puedes cambiar a la versión más reciente pagando una actualización.<\/li><\/ul>","text_style":"body"}},"template--17150759207157__449ecb77-803a-4217-a051-176188205147-button-1":{"type":"button","settings":{"button_label":"","button_link":"shopify:\/\/pages\/descargas-mybusiness-pos","button_style_secondary":false}}},"block_order":["template--17150759207157__449ecb77-803a-4217-a051-176188205147-heading-1","template--17150759207157__449ecb77-803a-4217-a051-176188205147-text-1","template--17150759207157__449ecb77-803a-4217-a051-176188205147-button-1"],"settings":{"image":"shopify:\/\/shop_images\/banner-image.png","height":"adapt","desktop_image_width":"medium","layout":"image_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","section_color_scheme":"","color_scheme":"","image_behavior":"none","mobile_content_alignment":"left","padding_top":60,"padding_bottom":60}},"c4f05c58-9c22-46eb-9eb6-841ff30049bf":{"type":"image-banner","blocks":{"template--17150759207157__c4f05c58-9c22-46eb-9eb6-841ff30049bf-heading-1":{"type":"heading","settings":{"heading":"Comienza a usar MyBusiness POS hoy mismo","heading_size":"h1"}},"template--17150759207157__c4f05c58-9c22-46eb-9eb6-841ff30049bf-buttons-1":{"type":"buttons","settings":{"button_label_1":"Pruebalo gratis","button_link_1":"shopify:\/\/pages\/descargas-mybusiness-pos","button_style_secondary_1":true,"button_label_2":"Comprar ahora","button_link_2":"shopify:\/\/products\/mybusiness-v20","button_style_secondary_2":false}}},"block_order":["template--17150759207157__c4f05c58-9c22-46eb-9eb6-841ff30049bf-heading-1","template--17150759207157__c4f05c58-9c22-46eb-9eb6-841ff30049bf-buttons-1"],"settings":{"image":"shopify:\/\/shop_images\/heroimage.png","image_overlay_opacity":0,"image_height":"medium","desktop_content_position":"middle-center","show_text_box":true,"desktop_content_alignment":"center","color_scheme":"","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}}},"order":["521ff606-3c73-41b2-9023-3af49bd86fa2","94160bbd-a2ab-4515-9b92-05a22fda79d2","main","f02fe732-c6d7-4f34-96a0-412107db37b9","b03bfe40-f209-4f5b-8f79-559862b547e9","449ecb77-803a-4217-a051-176188205147","c4f05c58-9c22-46eb-9eb6-841ff30049bf"]}
+{
+  "sections": {
+    "521ff606-3c73-41b2-9023-3af49bd86fa2": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17150759207157__521ff606-3c73-41b2-9023-3af49bd86fa2-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Software MyBusiness POS",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--17150759207157__521ff606-3c73-41b2-9023-3af49bd86fa2-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "94160bbd-a2ab-4515-9b92-05a22fda79d2": {
+      "type": "image-banner",
+      "blocks": {
+        "template--17150759207157__94160bbd-a2ab-4515-9b92-05a22fda79d2-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "MyBusiness POS funciona como punto de venta de abarrotes, farmacias, ferreterías, carnicerías, papelerías, refaccionarias, tlapalerías y muchos comercios más…",
+            "heading_size": "h1"
+          }
+        },
+        "template--17150759207157__94160bbd-a2ab-4515-9b92-05a22fda79d2-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Descarga gratis",
+            "button_link_1": "shopify:\/\/pages\/descargas-mybusiness-pos",
+            "button_style_secondary_1": true,
+            "button_label_2": "Comprar ahora",
+            "button_link_2": "shopify:\/\/products\/mybusiness-v20",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17150759207157__94160bbd-a2ab-4515-9b92-05a22fda79d2-heading-1",
+        "template--17150759207157__94160bbd-a2ab-4515-9b92-05a22fda79d2-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/hero-image.jpg",
+        "image_overlay_opacity": 50,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "f02fe732-c6d7-4f34-96a0-412107db37b9": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17150759207157__f02fe732-c6d7-4f34-96a0-412107db37b9-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Llevar un control total de tu negocio ahora es más sencillo.",
+            "heading_size": "h1"
+          }
+        },
+        "template--17150759207157__f02fe732-c6d7-4f34-96a0-412107db37b9-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>En el sistema encontrarás módulos como:<\/p>"
+          }
+        },
+        "template--17150759207157__f02fe732-c6d7-4f34-96a0-412107db37b9-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17150759207157__f02fe732-c6d7-4f34-96a0-412107db37b9-heading-1",
+        "template--17150759207157__f02fe732-c6d7-4f34-96a0-412107db37b9-text-1",
+        "template--17150759207157__f02fe732-c6d7-4f34-96a0-412107db37b9-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 16
+      }
+    },
+    "b03bfe40-f209-4f5b-8f79-559862b547e9": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--17150759207157__b03bfe40-f209-4f5b-8f79-559862b547e9-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Ventas<\/p><p>Compras<\/p><p>Control de inventario<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17150759207157__b03bfe40-f209-4f5b-8f79-559862b547e9-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Clientes<\/p><p>Cuentas por cobrar<\/p><p>Cuentas por pagar<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17150759207157__b03bfe40-f209-4f5b-8f79-559862b547e9-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Facturación electrónica<\/p><p>Pago de servicios<\/p><p>Proveedores<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "237a0963-74f3-4e84-a034-c28a3b7ec350": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Programación<\/p><p>Venta de recargas electrónicas<\/p><p>y más...<\/p><h6>(* se adapta a tus requerimentos o giro de negocio)<\/h6>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17150759207157__b03bfe40-f209-4f5b-8f79-559862b547e9-column-1",
+        "template--17150759207157__b03bfe40-f209-4f5b-8f79-559862b547e9-column-2",
+        "template--17150759207157__b03bfe40-f209-4f5b-8f79-559862b547e9-column-3",
+        "237a0963-74f3-4e84-a034-c28a3b7ec350"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "449ecb77-803a-4217-a051-176188205147": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17150759207157__449ecb77-803a-4217-a051-176188205147-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Características",
+            "heading_size": "h1"
+          }
+        },
+        "template--17150759207157__449ecb77-803a-4217-a051-176188205147-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Fácil de usar<\/li><li>Licencia por máquina.<\/li><li>Sistema operativo Windows<\/li><li>Puedes cambiar a la versión más reciente pagando una actualización.<\/li><\/ul>",
+            "text_style": "body"
+          }
+        },
+        "template--17150759207157__449ecb77-803a-4217-a051-176188205147-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "shopify:\/\/pages\/descargas-mybusiness-pos",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17150759207157__449ecb77-803a-4217-a051-176188205147-heading-1",
+        "template--17150759207157__449ecb77-803a-4217-a051-176188205147-text-1",
+        "template--17150759207157__449ecb77-803a-4217-a051-176188205147-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/banner-image.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "c4f05c58-9c22-46eb-9eb6-841ff30049bf": {
+      "type": "image-banner",
+      "blocks": {
+        "template--17150759207157__c4f05c58-9c22-46eb-9eb6-841ff30049bf-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Comienza a usar MyBusiness POS hoy mismo",
+            "heading_size": "h1"
+          }
+        },
+        "template--17150759207157__c4f05c58-9c22-46eb-9eb6-841ff30049bf-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Pruebalo gratis",
+            "button_link_1": "shopify:\/\/pages\/descargas-mybusiness-pos",
+            "button_style_secondary_1": true,
+            "button_label_2": "Comprar ahora",
+            "button_link_2": "shopify:\/\/products\/mybusiness-v20",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17150759207157__c4f05c58-9c22-46eb-9eb6-841ff30049bf-heading-1",
+        "template--17150759207157__c4f05c58-9c22-46eb-9eb6-841ff30049bf-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/heroimage.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "521ff606-3c73-41b2-9023-3af49bd86fa2",
+    "94160bbd-a2ab-4515-9b92-05a22fda79d2",
+    "main",
+    "f02fe732-c6d7-4f34-96a0-412107db37b9",
+    "b03bfe40-f209-4f5b-8f79-559862b547e9",
+    "449ecb77-803a-4217-a051-176188205147",
+    "c4f05c58-9c22-46eb-9eb6-841ff30049bf"
+  ]
+}
