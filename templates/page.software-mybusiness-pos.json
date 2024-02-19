@@ -277,7 +277,7 @@
           "type": "button",
           "settings": {
             "button_label": "Escríbenos en WhatsApp",
-            "button_link": "https:\/\/api.whatsapp.com\/send?phone=52729183655",
+            "button_link": "https:\/\/api.whatsapp.com\/send?phone=527239183655",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
