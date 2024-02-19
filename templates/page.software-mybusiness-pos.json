@@ -270,14 +270,14 @@
           "type": "heading",
           "settings": {
             "heading": "¿Aún tienes dudas?",
-            "heading_size": "h1"
+            "heading_size": "h0"
           }
         },
         "button_8LV4a9": {
           "type": "button",
           "settings": {
             "button_label": "Escríbenos en WhatsApp",
-            "button_link": "",
+            "button_link": "https:\/\/api.whatsapp.com\/send?phone=729183655",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
