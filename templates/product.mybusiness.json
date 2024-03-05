@@ -35,6 +35,7 @@
         },
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {
           }
         },
@@ -69,6 +70,9 @@
         "share",
         "ffabe969-f940-4df2-90c2-d2567b9f2e42",
         "12320291-e890-4461-98e9-48d8981aa71b"
+      ],
+      "custom_css": [
+
       ],
       "settings": {
         "enable_sticky_info": true,
