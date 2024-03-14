@@ -29,18 +29,10 @@
             "text": "Les recordamos que el lunes 18 de marzo no laboramos, anticipen sus compras para evitar inconvenientes.",
             "link": ""
           }
-        },
-        "announcement_fipXbX": {
-          "type": "announcement",
-          "settings": {
-            "text": "Welcome to our store",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "announcement-bar-0",
-        "announcement_fipXbX"
+        "announcement-bar-0"
       ],
       "settings": {
         "color_scheme": "accent-2",
