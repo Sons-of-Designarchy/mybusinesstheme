@@ -117,7 +117,7 @@
           "settings": {
             "heading": "¿Qué se necesita para facturar con MyBusinessPOS?",
             "icon": "none",
-            "row_content": "<ul><li>Un certificado de sello digital, el cual tramitarás con tu FIEL. <a href=\"https:\/\/videos.mybusinesspos.net\/FacturaElectronica\/ImplementaLaFactura_Parte1\/ImplementaLaFactura_Parte1.html\" target=\"_blank\">Mira aquí cómo hacerlo.<\/a><\/li><li>Descargar el módulo para facturar electrónicamente MyCFDI <a href=\"https:\/\/www.mybusinesspos.com\/Downloads\/MyCFDI.zip\" target=\"_blank\">aquí<\/a><\/li><li>Timbres fiscales para hacer válidas tus facturas. <a href=\"https:\/\/cfdimobile.mybusinesspos.net\/Registrarse.aspx\" target=\"_blank\">Regístrate aquí para poder obtener 1 folio de regalo.<\/a><\/li><\/ul>",
+            "row_content": "<ul><li>Un certificado de sello digital, el cual tramitarás con tu FIEL. <a href=\"https:\/\/videos.mybusinesspos.net\/FacturaElectronica\/ImplementaLaFactura_Parte1\/ImplementaLaFactura_Parte1.html\" target=\"_blank\">Mira aquí cómo hacerlo.<\/a><\/li><li>Descargar el módulo para facturar electrónicamente MyCFDI <a href=\"https:\/\/downloads.mybusinesspos.com\/MyCFDI.zip\" target=\"_blank\" title=\"https:\/\/downloads.mybusinesspos.com\/MyCFDI.zip\">aquí<\/a><\/li><li>Timbres fiscales para hacer válidas tus facturas. <a href=\"https:\/\/cfdimobile.mybusinesspos.net\/Registrarse.aspx\" target=\"_blank\">Regístrate aquí para poder obtener 1 folio de regalo.<\/a><\/li><\/ul>",
             "page": ""
           }
         }
