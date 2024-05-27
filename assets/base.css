@@ -3588,9 +3588,10 @@ details-disclosure > details {
   transition: all .15s ease-in-out;
   text-decoration: none;
   color: #000;
+  margin-right: 4rem;
 }
 
 .floating-buttons a span {
-  font-size: 10px;
+  font-size: 9px;
   margin-left: 4px;
 }
