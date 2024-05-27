@@ -1,19 +1,12 @@
 {
   "sections": {
-    "image_banner_zQcFLn": {
-      "type": "image-banner",
+    "custom_liquid_8zmzLH": {
+      "type": "custom-liquid",
       "settings": {
-        "image": "shopify:\/\/shop_images\/rEQZQICQ.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
+        "custom_liquid": "<div class=\"full-image\">\n<a href=\"https:\/\/wa.me\/5217223761729?text=Hola.%20Soy%20distribuidor%20y%20ví%20su%20anuncio%20del%20XIII%20Congreso%20Anual%20de%20Punto%20de%20Venta%20en%20el%20Boletín%20de%20la%20Computación.%20Por%20favor%20dame%20información\n\">\n<img src=\"https:\/\/mybusinesspos.com\/cdn\/shop\/files\/rEQZQICQ.jpg\" \/> <\/a><\/div>",
         "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "1d0f9dcb-17d8-4aaf-a909-126e499384e6": {
@@ -248,23 +241,13 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "custom_liquid_8zmzLH": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"full-image>\n<a href=\"#\">\n<img src=\"https:\/\/mybusinesspos.com\/cdn\/shop\/files\/rEQZQICQ.jpg\" \/> <\/a><\/div>",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
-    "image_banner_zQcFLn",
+    "custom_liquid_8zmzLH",
     "1d0f9dcb-17d8-4aaf-a909-126e499384e6",
     "e1d5e551-fc38-4d95-84d9-ff13d9b68d36",
     "e0ad87c9-fe6b-43ce-8bab-6f87e34d5eca",
-    "c9d1c14f-e2dd-4ab0-ba6b-6fd3ddbae91e",
-    "custom_liquid_8zmzLH"
+    "c9d1c14f-e2dd-4ab0-ba6b-6fd3ddbae91e"
   ]
 }
