@@ -3589,3 +3589,8 @@ details-disclosure > details {
   text-decoration: none;
   color: #000;
 }
+
+.floating-buttons a span {
+  font-size: 10px;
+  margin-left: 4px;
+}
