@@ -3580,3 +3580,8 @@ details-disclosure > details {
   width: 100%;
   object-fit: contain;
 }
+
+.full-image img {
+  max-width: 100%;
+  height: auto;
+}
