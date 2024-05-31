@@ -169,7 +169,7 @@
     "d6df3b80-4f93-4c02-b2f6-1026f8020ca2": {
       "type": "video",
       "settings": {
-        "heading": "¡51,489 abarroteras usan nuestro software!",
+        "heading": "{{ page.metafields.custom.video_title.value }}",
         "heading_size": "h1",
         "enable_video_looping": false,
         "video_url": "https:\/\/www.youtube.com\/watch?embeds_referring_euri=https%3A%2F%2Fmybusinesspos.com%2F&embeds_referring_origin=https%3A%2F%2Fmybusinesspos.com&source_ve_path=MTY0NTA2LDE2NDUwMw&feature=emb_share&v=R8JeeXp0tbE",
@@ -187,13 +187,13 @@
         "template--17183345705205__74d1812f-3436-42d4-b9e1-dc6356d992aa-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Si tienes una pequeña abarrotera, te ayudamos a controlar y luego ¡a crecer!<\/p>"
+            "text": "<p>{{ page.metafields.custom.cta_description.value }}<\/p>"
           }
         },
         "template--17183345705205__74d1812f-3436-42d4-b9e1-dc6356d992aa-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Comprar ahora",
+            "button_label": "{{ page.metafields.custom.first_button_label.value }}",
             "button_link": "shopify:\/\/pages\/software-mybusiness-pos",
             "button_style_secondary": false,
             "button_label_2": "",
