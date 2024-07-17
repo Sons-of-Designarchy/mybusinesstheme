@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "521ff606-3c73-41b2-9023-3af49bd86fa2": {
@@ -52,7 +61,7 @@
           "type": "button",
           "settings": {
             "button_label": "Descarga ahora",
-            "button_link": "https:\/\/downloads.mybusinesspos.com\/SetupMyBusinessPOS20.zip",
+            "button_link": "https:\/\/downloads.mybusinesspos.com\/SetupMyBusinessPOS24.zip",
             "button_style_secondary": false
           }
         }
