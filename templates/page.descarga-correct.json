@@ -46,7 +46,7 @@
         "template--17182491771125__c0e93e9d-c5a0-4bd6-8d5e-e76c0723abda-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "MyBusiness POS 20",
+            "heading": "MyBusiness POS 24",
             "heading_size": "h2"
           }
         },
@@ -72,7 +72,7 @@
         "template--17182491771125__c0e93e9d-c5a0-4bd6-8d5e-e76c0723abda-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/logov20_6a3b7c85-6fb8-445b-99fd-f780db0373f8.png",
+        "image": "shopify:\/\/shop_images\/logo_v24.png",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
