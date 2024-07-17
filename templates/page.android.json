@@ -1,1 +1,167 @@
-{"sections":{"521ff606-3c73-41b2-9023-3af49bd86fa2":{"type":"rich-text","blocks":{"template--17150759207157__521ff606-3c73-41b2-9023-3af49bd86fa2-heading-1":{"type":"heading","settings":{"heading":"Venta en ruta para Android","heading_size":"h1"}}},"block_order":["template--17150759207157__521ff606-3c73-41b2-9023-3af49bd86fa2-heading-1"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"accent-2","full_width":true,"padding_top":40,"padding_bottom":52}},"94160bbd-a2ab-4515-9b92-05a22fda79d2":{"type":"image-banner","blocks":{"template--17150759207157__94160bbd-a2ab-4515-9b92-05a22fda79d2-heading-1":{"type":"heading","settings":{"heading":"POS Tools es una app de movilidad que te permite vender y levantar pedidos a través de tu celular o tableta con Android.","heading_size":"h1"}}},"block_order":["template--17150759207157__94160bbd-a2ab-4515-9b92-05a22fda79d2-heading-1"],"settings":{"image":"shopify:\/\/shop_images\/hero-image_e143e56b-bfbc-40f0-9fac-0755e0a82cae.jpg","image_overlay_opacity":50,"image_height":"adapt","desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"inverse","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}},"main":{"type":"main-page","disabled":true,"settings":{"padding_top":28,"padding_bottom":28}},"b03bfe40-f209-4f5b-8f79-559862b547e9":{"type":"multicolumn","blocks":{"template--17150759207157__b03bfe40-f209-4f5b-8f79-559862b547e9-column-1":{"type":"column","settings":{"title":"","text":"<p>Punto de Venta<\/p><p>Control de inventario<\/p><p>Venta y pedidos en ruta<\/p>","link_label":"","link":""}},"template--17150759207157__b03bfe40-f209-4f5b-8f79-559862b547e9-column-2":{"type":"column","settings":{"title":"","text":"<p>Venta de tiempo aire electrónico<\/p><p>Facturación electrónica<\/p><p>Autofacturación<\/p>","link_label":"","link":""}},"template--17150759207157__b03bfe40-f209-4f5b-8f79-559862b547e9-column-3":{"type":"column","settings":{"title":"","text":"<p>Sincronización con sucursales<\/p><p>Lector de QRs<\/p><p>Cobro con efectivo, tarjeta de crédito o débito, Paypal y Payu<\/p>","link_label":"","link":""}}},"block_order":["template--17150759207157__b03bfe40-f209-4f5b-8f79-559862b547e9-column-1","template--17150759207157__b03bfe40-f209-4f5b-8f79-559862b547e9-column-2","template--17150759207157__b03bfe40-f209-4f5b-8f79-559862b547e9-column-3"],"settings":{"title":"","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"center","background_style":"primary","button_label":"","button_link":"","color_scheme":"background-2","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"46022589-9e33-4f6f-aae2-9bdfddf33a9f":{"type":"rich-text","blocks":{"template--17150901911797__46022589-9e33-4f6f-aae2-9bdfddf33a9f-heading-1":{"type":"heading","settings":{"heading":"Descárgala gratis y descubre lo sencillo que es controlar tu negocio.","heading_size":"h1"}},"template--17150901911797__46022589-9e33-4f6f-aae2-9bdfddf33a9f-button-1":{"type":"button","settings":{"button_label":"Descargar en Google Play","button_link":"shopify:\/\/products\/mybusiness-v20","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--17150901911797__46022589-9e33-4f6f-aae2-9bdfddf33a9f-heading-1","template--17150901911797__46022589-9e33-4f6f-aae2-9bdfddf33a9f-button-1"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"","full_width":true,"padding_top":40,"padding_bottom":52}}},"order":["521ff606-3c73-41b2-9023-3af49bd86fa2","94160bbd-a2ab-4515-9b92-05a22fda79d2","main","b03bfe40-f209-4f5b-8f79-559862b547e9","46022589-9e33-4f6f-aae2-9bdfddf33a9f"]}
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "521ff606-3c73-41b2-9023-3af49bd86fa2": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17150759207157__521ff606-3c73-41b2-9023-3af49bd86fa2-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Venta en ruta para Android",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--17150759207157__521ff606-3c73-41b2-9023-3af49bd86fa2-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "94160bbd-a2ab-4515-9b92-05a22fda79d2": {
+      "type": "image-banner",
+      "blocks": {
+        "template--17150759207157__94160bbd-a2ab-4515-9b92-05a22fda79d2-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "POS Tools es una app de movilidad que te permite vender y levantar pedidos a través de tu celular o tableta con Android.",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--17150759207157__94160bbd-a2ab-4515-9b92-05a22fda79d2-heading-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/hero-image_e143e56b-bfbc-40f0-9fac-0755e0a82cae.jpg",
+        "image_overlay_opacity": 50,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "b03bfe40-f209-4f5b-8f79-559862b547e9": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--17150759207157__b03bfe40-f209-4f5b-8f79-559862b547e9-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Punto de Venta<\/p><p>Control de inventario<\/p><p>Venta y pedidos en ruta<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17150759207157__b03bfe40-f209-4f5b-8f79-559862b547e9-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Venta de tiempo aire electrónico<\/p><p>Facturación electrónica<\/p><p>Autofacturación<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17150759207157__b03bfe40-f209-4f5b-8f79-559862b547e9-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Sincronización con sucursales<\/p><p>Lector de QRs<\/p><p>Cobro con efectivo, tarjeta de crédito o débito, Paypal y Payu<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17150759207157__b03bfe40-f209-4f5b-8f79-559862b547e9-column-1",
+        "template--17150759207157__b03bfe40-f209-4f5b-8f79-559862b547e9-column-2",
+        "template--17150759207157__b03bfe40-f209-4f5b-8f79-559862b547e9-column-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "46022589-9e33-4f6f-aae2-9bdfddf33a9f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17150901911797__46022589-9e33-4f6f-aae2-9bdfddf33a9f-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Descárgala gratis y descubre lo sencillo que es controlar tu negocio.",
+            "heading_size": "h1"
+          }
+        },
+        "template--17150901911797__46022589-9e33-4f6f-aae2-9bdfddf33a9f-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Descargar en Google Play",
+            "button_link": "shopify:\/\/products\/mybusinessposs",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17150901911797__46022589-9e33-4f6f-aae2-9bdfddf33a9f-heading-1",
+        "template--17150901911797__46022589-9e33-4f6f-aae2-9bdfddf33a9f-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "521ff606-3c73-41b2-9023-3af49bd86fa2",
+    "94160bbd-a2ab-4515-9b92-05a22fda79d2",
+    "main",
+    "b03bfe40-f209-4f5b-8f79-559862b547e9",
+    "46022589-9e33-4f6f-aae2-9bdfddf33a9f"
+  ]
+}
