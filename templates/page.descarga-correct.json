@@ -46,7 +46,7 @@
         "template--17182491771125__c0e93e9d-c5a0-4bd6-8d5e-e76c0723abda-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "MyBusiness POS 20",
+            "heading": "MyBusiness POS 24",
             "heading_size": "h2"
           }
         },
@@ -73,6 +73,53 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/logo_v24.png",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_TRkU4C": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_hKTf6q": {
+          "type": "heading",
+          "settings": {
+            "heading": "MyBusiness POS 20",
+            "heading_size": "h2"
+          }
+        },
+        "text_Gc8U7M": {
+          "type": "text",
+          "settings": {
+            "text": "<p>¡Pruébalo por 30 días!<\/p><p><strong>Requisitos para su instalación:<\/strong> Windows 8, 8.1 o 10<\/p><p><strong>Nota importante: <\/strong>Ejecutar ambos archivos como Administrador, comenzando por el SQLServer2012<\/p><p><strong>Otras descargas:<\/strong><a href=\"https:\/\/downloads.mybusinesspos.com\/MyBusiness-POS-v24-Gu%C3%ADa-R%C3%A1pida-de-Instalaci%C3%B3n.pdf\" title=\"https:\/\/downloads.mybusinesspos.com\/MyBusiness-POS-v24-Gu%C3%ADa-R%C3%A1pida-de-Instalaci%C3%B3n.pdf\">Guía Rápida de Instalación (.pdf)<\/a> | <a href=\"https:\/\/downloads.mybusinesspos.com\/MyBusiness-POS-v20-Requerimientos-Arquitectura.pdf\" title=\"https:\/\/downloads.mybusinesspos.com\/MyBusiness-POS-v20-Requerimientos-Arquitectura.pdf\">Requerimientos de Arquitectura (.pdf)<\/a><\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_CzwXxF": {
+          "type": "button",
+          "settings": {
+            "button_label": "Descarga ahora",
+            "button_link": "https:\/\/downloads.mybusinesspos.com\/SetupMyBusinessPOS20.zip",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_hKTf6q",
+        "text_Gc8U7M",
+        "button_CzwXxF"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/logov20_6a3b7c85-6fb8-445b-99fd-f780db0373f8.png",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -233,6 +280,7 @@
     "521ff606-3c73-41b2-9023-3af49bd86fa2",
     "main",
     "c0e93e9d-c5a0-4bd6-8d5e-e76c0723abda",
+    "image_with_text_TRkU4C",
     "c058d36d-28fc-458c-8188-e17a4c5772de",
     "37e300e7-eb9d-4ac6-9c3f-841789aecbd1",
     "defd8e39-8af0-4e9b-ba5d-dbe89265ecbf"
