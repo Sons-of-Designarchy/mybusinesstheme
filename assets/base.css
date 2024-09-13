@@ -5,6 +5,11 @@
   --alpha-badge-border: 0.1;
 }
 
+@media screen and (min-width: 990px) {
+  .page-width--narrow {
+    max-width: 1100px !important;
+  }}
+
 .product-card-wrapper .card,
 .contains-card--product {
   --border-radius: var(--product-card-corner-radius);
