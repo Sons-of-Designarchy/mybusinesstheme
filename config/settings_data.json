@@ -9,9 +9,9 @@
 */
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/mybusinesslogo.svg",
-    "logo_width": 170,
-    "favicon": "shopify:\/\/shop_images\/gatsby-icon.png",
+    "logo": "shopify://shop_images/logov24_dfc0b905-ffa4-49c4-9cb9-a073df78f0b2.png",
+    "logo_width": 90,
+    "favicon": "shopify://shop_images/logov24_dfc0b905-ffa4-49c4-9cb9-a073df78f0b2.png",
     "type_header_font": "abril_fatface_n4",
     "heading_scale": 100,
     "type_body_font": "dm_sans_n4",
@@ -108,13 +108,13 @@
     "sale_badge_color_scheme": "accent-2",
     "sold_out_badge_color_scheme": "inverse",
     "brand_headline": "",
-    "brand_description": "<p><\/p>",
+    "brand_description": "<p></p>",
     "brand_image_width": 100,
-    "social_facebook_link": "https:\/\/www.facebook.com\/MyBusinessPOSD\/",
-    "social_instagram_link": "https:\/\/www.instagram.com\/mybusinessposd\/",
-    "social_youtube_link": "https:\/\/www.youtube.com\/user\/MyBusinessPOSD",
+    "social_facebook_link": "https://www.facebook.com/MyBusinessPOSD/",
+    "social_instagram_link": "https://www.instagram.com/mybusinessposd/",
+    "social_youtube_link": "https://www.youtube.com/user/MyBusinessPOSD",
     "social_tiktok_link": "",
-    "social_twitter_link": "https:\/\/twitter.com\/MyBusinessPOSD\/header_photo",
+    "social_twitter_link": "https://twitter.com/MyBusinessPOSD/header_photo",
     "social_snapchat_link": "",
     "social_pinterest_link": "",
     "social_tumblr_link": "",
@@ -147,7 +147,7 @@
     ],
     "blocks": {
       "2399026625676879482": {
-        "type": "shopify:\/\/apps\/tevello-courses-communities\/blocks\/app-embed\/6af98c2b-ad4a-443c-872d-d116e2eac923",
+        "type": "shopify://apps/tevello-courses-communities/blocks/app-embed/6af98c2b-ad4a-443c-872d-d116e2eac923",
         "disabled": false,
         "settings": {
           "account_page_position": "top"
@@ -368,7 +368,7 @@
       "sale_badge_color_scheme": "accent-2",
       "sold_out_badge_color_scheme": "inverse",
       "brand_headline": "",
-      "brand_description": "<p><\/p>",
+      "brand_description": "<p></p>",
       "brand_image_width": 100,
       "social_twitter_link": "",
       "social_facebook_link": "",
@@ -406,12 +406,12 @@
   },
   "platform_customizations": {
     "custom_css": [
-      "@font-face {font-family: \"Tiempos\"; src: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0677\/6524\/0053\/files\/TiemposHeadline-Medium.otf?v=1703693644\") format(\"opentype\");}",
+      "@font-face {font-family: \"Tiempos\"; src: url(\"https://cdn.shopify.com/s/files/1/0677/6524/0053/files/TiemposHeadline-Medium.otf?v=1703693644\") format(\"opentype\");}",
       "h1,h2,h3,h4,h5,.h0,.h1,.h2,.h3,.h4,.h5,.multicolumn.color-background-2 .multicolumn-card {font-family: \"Tiempos\", serif;}",
       ".image-with-text__media {border: 0;}",
       ".image-with-text__media--small img {object-fit: contain;}",
       ".multicolumn .title-wrapper-with-link {display: flex; justify-content: center;}",
-      ".color-accent-1.gradient {background: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0677\/6524\/0053\/files\/banner-image.png?v=1703004614\") no-repeat; background-size: cover;}",
+      ".color-accent-1.gradient {background: url(\"https://cdn.shopify.com/s/files/1/0677/6524/0053/files/banner-image.png?v=1703004614\") no-repeat; background-size: cover;}",
       ".color-accent-1 .multicolumn-card,.color-accent-1 .multicolumn-card__info {background: #fff !important;}",
       ".color-accent-1 .multicolumn-card h3,.color-accent-1 .multicolumn-card h6 {color: #000;}",
       ".multicolumn.color-background-2 {background: #fff;}",
