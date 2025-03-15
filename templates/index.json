@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "1d0f9dcb-17d8-4aaf-a909-126e499384e6": {
@@ -15,14 +15,14 @@
         "template--17150561386741__1d0f9dcb-17d8-4aaf-a909-126e499384e6-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "La forma simple de administrar tu negocio.",
+            "heading": "MyBusiness POS gestiona tus ventas, inventarios y más desde un solo lugar.",
             "heading_size": "h1"
           }
         },
         "template--17150561386741__1d0f9dcb-17d8-4aaf-a909-126e499384e6-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>MyBusiness POS es el sistema de punto de venta que hará tu vida más sencilla, con su gran precio, su facilidad de uso y su experiencia en el mercado. Da clic y compruébalo tu mismo.<\/p>",
+            "text": "<p>Desde tu primer día hasta el crecimiento de tu cadena, MyBusiness POS te respalda. Únete a miles de negocios que ya lo están usando para aumentar sus ventas y crecer su negocio.</p>",
             "text_style": "body"
           }
         },
@@ -30,7 +30,7 @@
           "type": "button",
           "settings": {
             "button_label": "Pruébalo gratis",
-            "button_link": "shopify:\/\/pages\/software-mybusiness-pos",
+            "button_link": "shopify://pages/software-mybusiness-pos",
             "button_style_secondary": false
           }
         }
@@ -41,7 +41,7 @@
         "template--17150561386741__1d0f9dcb-17d8-4aaf-a909-126e499384e6-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/hero-image.png",
+        "image": "shopify://shop_images/hero-image.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -62,41 +62,41 @@
         "template--17150561386741__e1d5e551-fc38-4d95-84d9-ff13d9b68d36-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/abarroes-home.jpg",
+            "image": "shopify://shop_images/abarroes-home.jpg",
             "title": "Giro de negocios",
-            "text": "<p>Nuestro software funciona en múltiples negocios, te mostramos cómo funciona en cada uno.<\/p>",
+            "text": "<p>Nuestro software funciona en múltiples negocios, te mostramos cómo funciona en cada uno.</p>",
             "link_label": "Más información",
-            "link": "shopify:\/\/pages\/abarrotes"
+            "link": "shopify://pages/abarrotes"
           }
         },
         "template--17150561386741__e1d5e551-fc38-4d95-84d9-ff13d9b68d36-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/home-image.jpg",
+            "image": "shopify://shop_images/home-image.jpg",
             "title": "Recargas de tiempo aire",
-            "text": "<p>Aumenta tus ganancias y flujo de clientes ofreciendo recargas y pago de servicios.<\/p>",
+            "text": "<p>Aumenta tus ganancias y flujo de clientes ofreciendo recargas y pago de servicios.</p>",
             "link_label": "Más información",
-            "link": "shopify:\/\/pages\/recargas-de-tiempo-aire"
+            "link": "shopify://pages/recargas-de-tiempo-aire"
           }
         },
         "template--17150561386741__e1d5e551-fc38-4d95-84d9-ff13d9b68d36-column-3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/home-image_6606cc5e-3d26-4235-905e-2a04cd38d42a.jpg",
+            "image": "shopify://shop_images/home-image_6606cc5e-3d26-4235-905e-2a04cd38d42a.jpg",
             "title": "Facturación electrónica",
-            "text": "<p>Respalda tu información importante y accede a ella en el momento que lo necesites.<\/p>",
+            "text": "<p>Respalda tu información importante y accede a ella en el momento que lo necesites.</p>",
             "link_label": "Más información",
-            "link": "shopify:\/\/pages\/facturacion-electronica"
+            "link": "shopify://pages/facturacion-electronica"
           }
         },
         "1a26bb61-2108-44fe-b9f9-a96c39255a79": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/home-image_224c4652-fca9-44c2-b849-eabb757c3599.jpg",
+            "image": "shopify://shop_images/home-image_224c4652-fca9-44c2-b849-eabb757c3599.jpg",
             "title": "Corporativos",
-            "text": "<p>Controla tus sucursales o franquicias con una solución adaptada a tu medida.<\/p>",
+            "text": "<p>Controla tus sucursales o franquicias con una solución adaptada a tu medida.</p>",
             "link_label": "Más información",
-            "link": "shopify:\/\/pages\/corporativos"
+            "link": "shopify://pages/corporativos"
           }
         }
       },
@@ -130,7 +130,7 @@
           "type": "column",
           "settings": {
             "title": "“MyBusiness POS me ayuda a controlar inventarios, medir las ventas del día y llevar un registro del dinero. En pocas palabras, nos ayuda a vender mejor.”",
-            "text": "<h6>Javier Sánchez Navarrete propietario de Súper 24<\/h6>",
+            "text": "<h6>Javier Sánchez Navarrete propietario de Súper 24</h6>",
             "link_label": "",
             "link": ""
           }
@@ -139,7 +139,7 @@
           "type": "column",
           "settings": {
             "title": "“Con MyBusiness POS llevo un mejor control y me ayuda a agilizar el proceso de venta gracias a la simpleza en la interfaz del punto de venta.”",
-            "text": "<h6>Angie Durán propietaria de Ferremas México<\/h6>",
+            "text": "<h6>Angie Durán propietaria de Ferremas México</h6>",
             "link_label": "",
             "link": ""
           }
@@ -148,7 +148,7 @@
           "type": "column",
           "settings": {
             "title": "“MyBusiness POS es la columna vertebral de mi negocio, con el controlo, programo, superviso y administro todo de forma rápiday sencilla.”",
-            "text": "<h6>Aurelio Arratia propietario de Lechería Victoria<\/h6>",
+            "text": "<h6>Aurelio Arratia propietario de Lechería Victoria</h6>",
             "link_label": "",
             "link": ""
           }
@@ -157,7 +157,7 @@
           "type": "column",
           "settings": {
             "title": "“MyBusiness POS me ha ayudado a desarrollar oportunidades de negocio en áreas de comercio al por mayor.”",
-            "text": "<h6>Gustavo Mendoza propietario de IntegraBits<\/h6>",
+            "text": "<h6>Gustavo Mendoza propietario de IntegraBits</h6>",
             "link_label": "",
             "link": ""
           }
@@ -192,31 +192,31 @@
         "917002e6-e34a-4bf8-b6ff-0ec61b20ea1f": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/home-image_5f3db6e6-58d4-4330-be45-15a2a97b89b9.jpg",
+            "image": "shopify://shop_images/home-image_5f3db6e6-58d4-4330-be45-15a2a97b89b9.jpg",
             "title": "POS Tools",
-            "text": "<p>Genera ventas y levanta pedidos desde tu celular.<\/p>",
+            "text": "<p>Genera ventas y levanta pedidos desde tu celular.</p>",
             "link_label": "Más información",
-            "link": "shopify:\/\/pages\/venta-en-ruta-para-android"
+            "link": "shopify://pages/venta-en-ruta-para-android"
           }
         },
         "f17ff2db-b3e5-4c79-aa1d-ed98597152ed": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/home-image_79dab375-651b-41c2-a4ef-ce52b1f2c028.jpg",
+            "image": "shopify://shop_images/home-image_79dab375-651b-41c2-a4ef-ce52b1f2c028.jpg",
             "title": "Desarrollo a la medida",
-            "text": "<p>El único sistema de punto de venta que se adecúa a tu requerimiento particular o giro comercial.<\/p>",
+            "text": "<p>El único sistema de punto de venta que se adecúa a tu requerimiento particular o giro comercial.</p>",
             "link_label": "Más información",
-            "link": "shopify:\/\/pages\/desarrollo-a-la-medida"
+            "link": "shopify://pages/desarrollo-a-la-medida"
           }
         },
         "0dbd74c4-4288-4ddd-8da4-bb0e4e988d2c": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/home-image_f6a861a5-dc20-4e0d-9ac5-bf2b32263c7b.jpg",
+            "image": "shopify://shop_images/home-image_f6a861a5-dc20-4e0d-9ac5-bf2b32263c7b.jpg",
             "title": "Servicios en la nube",
-            "text": "<p>Respalda tu información importante y accede a ella en el momento que lo necesites.<\/p>",
+            "text": "<p>Respalda tu información importante y accede a ella en el momento que lo necesites.</p>",
             "link_label": "Más información",
-            "link": "shopify:\/\/pages\/servicios-en-la-nube"
+            "link": "shopify://pages/servicios-en-la-nube"
           }
         }
       },
