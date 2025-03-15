@@ -35,7 +35,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "El lunes 3 de febrero no laboramos. Anticipa tus compras para evitar inconvenientes.",
+            "text": "El lunes 17 de febrero no laboramos. Anticipa tus compras para evitar inconvenientes.",
             "link": ""
           }
         }
@@ -43,7 +43,6 @@
       "block_order": [
         "announcement-bar-0"
       ],
-      "disabled": true,
       "settings": {
         "color_scheme": "accent-2",
         "show_line_separator": true,
