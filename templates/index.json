@@ -30,7 +30,7 @@
           "type": "button",
           "settings": {
             "button_label": "Hablar por WhatsApp",
-            "button_link": "shopify://pages/software-mybusiness-pos",
+            "button_link": "https://wa.me/525519480965?text=Hola%20quiero%20información%20de%20MyBusiness%20POS",
             "button_style_secondary": false
           }
         }
