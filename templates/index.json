@@ -30,7 +30,7 @@
           "type": "button",
           "settings": {
             "button_label": "Hablar por WhatsApp",
-            "button_link": "https://wa.me/527293183655?text=Hola%20quiero%20información%20de%20MyBusiness%20POS",
+            "button_link": "https://wa.me/527293183655?text=Hola%20vi%20esto%20en%20google%20quiero%20info",
             "button_style_secondary": false
           }
         }
