@@ -35,15 +35,14 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "El viernes 1 de mayo no laboramos. Anticipa tus compras para evitar inconvenientes.",
-            "link": ""
+            "text": "Ayúdanos a mejorar nuestro servicio:",
+            "link": "https://askme.com.mx/poll.html?id=229aca7a-d54b-4f90-884a-e0c8e488b40f&user=pollster%40mybusinesspos&token=8451e51e-fd8d-47da-9dfa-d3393fc02eb8"
           }
         }
       },
       "block_order": [
         "announcement-bar-0"
       ],
-      "disabled": true,
       "settings": {
         "color_scheme": "accent-2",
         "show_line_separator": true,
