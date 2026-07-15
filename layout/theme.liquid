@@ -295,6 +295,17 @@
     {%- endif -%}
 
     {% sections 'header-group' %}
+    <!-- Botón para abrir la encuesta / Button to open the survey -->
+<button onclick="document.getElementById('askme-survey-dialog-229aca7a-d54b-4f90-884a-e0c8e488b40f').showModal()" style="padding: 12px 24px; font-size: 16px; font-weight: bold; background: linear-gradient(135deg, #007bff 0%, #0056b3 100%); color: white; border: none; border-radius: 8px; cursor: pointer; box-shadow: 0 4px 15px rgba(0, 123, 255, 0.3); transition: all 0.2s ease;">Answer Survey</button>
+
+<!-- Diálogo modal de la encuesta / Survey modal dialog -->
+<dialog id="askme-survey-dialog-229aca7a-d54b-4f90-884a-e0c8e488b40f" style="width: 95%; max-width: 800px; height: 90vh; max-height: 700px; border: none; border-radius: 16px; padding: 0; box-shadow: 0 10px 40px rgba(0, 0, 0, 0.25); overflow: hidden;">
+    <div style="display: flex; justify-content: space-between; align-items: center; padding: 12px 20px; background-color: #f8f9fa; border-bottom: 1px solid #dee2e6;">
+        <span style="font-weight: bold; font-family: sans-serif; color: #333;">Queremos conocer tu experiencia </span>
+        <button onclick="document.getElementById('askme-survey-dialog-229aca7a-d54b-4f90-884a-e0c8e488b40f').close()" style="background: none; border: none; font-size: 24px; cursor: pointer; font-weight: bold; color: #6c757d; line-height: 1;">&times;</button>
+    </div>
+    <iframe src="https://askme.com.mx/poll.html?id=229aca7a-d54b-4f90-884a-e0c8e488b40f&user=pollster%40mybusinesspos&token=8451e51e-fd8d-47da-9dfa-d3393fc02eb8" width="100%" height="100%" style="border: none; height: calc(100% - 50px);" allow="geolocation"></iframe>
+</dialog>
 
     <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
       {{ content_for_layout }}
